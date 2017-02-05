@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ResumeTransducer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ResumeParser/ResumeTransducer/bin/ResumeTransducer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

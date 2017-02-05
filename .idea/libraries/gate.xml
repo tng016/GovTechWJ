@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ResumeParser/GATEFiles/bin/gate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../ResumeParser/GATEFiles/bin/gate.jar!/" />
+    </SOURCES>
+  </library>
+</component>
